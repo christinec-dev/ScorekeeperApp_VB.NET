@@ -1,8 +1,6 @@
 # Scorekeeper Application
 
-# Wallpaper App
-
-This repository contains a fully-fledged, working VB.NEt Scorekeeping App that I did in my spare time.This application allows users to calculate the number of average, highest and lowest scores for a number of inputs.
+This repository contains a fully-fledged, working VB.NET Scorekeeping App that I did in my spare time.This application allows users to calculate the number of average, highest and lowest scores for a number of inputs.
 
 This application was created by me during the last six months of 2020 for practice purposes.
 
