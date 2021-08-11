@@ -1,0 +1,24 @@
+Dim Total As Double = 0
+Dim Count As Double = 0
+Dim Average As Double = 0
+Dim CurrentHighest As Integer = 0
+Dim CurrentLowest As Integer = 0
+
+
+        For Each item As Integer In listbox2.Items
+            If item > CurrentHighest Then CurrentHighest = item
+        Next
+        HSTTxt.Text = CurrentHighest.ToString
+
+	For Each item As Integer In listbox2.Items
+            If CurrentLowest < CurrentHighest Then CurrentLowest = item
+        Next
+        LSTTxt.Text = CurrentLowest.ToString
+
+        For I As Integer = 0 To listbox2.Items.Count - 1
+            Total += Val(listbox2.Items(I))
+            Count += 1
+        Next
+
+        Average = Total / Count
+        AvgTxt.Text = Average.ToString

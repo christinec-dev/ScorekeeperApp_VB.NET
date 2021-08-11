@@ -1,0 +1,23 @@
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\bin\Debug\ID_ScoreApp.exe.config
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\bin\Debug\ID_ScoreApp.exe
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\bin\Debug\ID_ScoreApp.pdb
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\bin\Debug\ID_ScoreApp.xml
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.vbprojAssemblyReference.cache
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.Form1.resources
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.Resources.resources
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.vbproj.GenerateResource.cache
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.exe
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.xml
+C:\Users\HP Notebook 15\Desktop\ID_ScoreApp\obj\Debug\ID_ScoreApp.pdb
+D:\Origin\RGIT\ID_ScoreApp\bin\Debug\ID_ScoreApp.exe.config
+D:\Origin\RGIT\ID_ScoreApp\bin\Debug\ID_ScoreApp.exe
+D:\Origin\RGIT\ID_ScoreApp\bin\Debug\ID_ScoreApp.pdb
+D:\Origin\RGIT\ID_ScoreApp\bin\Debug\ID_ScoreApp.xml
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.vbproj.AssemblyReference.cache
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.Form1.resources
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.Resources.resources
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.vbproj.GenerateResource.cache
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.vbproj.CoreCompileInputs.cache
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.exe
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.xml
+D:\Origin\RGIT\ID_ScoreApp\obj\Debug\ID_ScoreApp.pdb
